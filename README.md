@@ -5,7 +5,7 @@
 ## 🚀 About Me
 ✨ Full-Stack Software Engineer focused on building scalable web applications and clean backend architectures.
 
-- 💼 **Current Role:** Full Stack Developer at Enterprise64 (Digital Global Systems)
+- 💼 **Current Role:** Full Stack Developer at Enterprise64
 - 🔧 **Focus:** Full Stack Development, REST APIs, scalable backend systems, and modern frontend applications
 - ⚙️ **Experience:** Building admin dashboards, role-based access systems, and API-driven platforms
 - 🔄 **DevOps Interest:** CI/CD pipelines and automated development workflows
@@ -32,55 +32,6 @@
 
 ### 🔧 Tools
 `Postman` `Swagger` `Jira` `Balsamiq` `AWS` `Google Colab`
-
----
-
-## 💼 Professional Experience
-
-### 🏢 Enterprise64 – Full Stack Developer  
-**Nov 2024 – Present**
-
-- Developed monitoring and management modules for system configuration and analytics
-- Built backend services using **Node.js and Express.js**
-- Developed frontend modules with **React.js + TypeScript + Ant Design**
-- Implemented **role-based access control systems**
-- Integrated REST APIs with **MySQL database**
-- Worked with **Git workflows and CI/CD pipelines**
-
-### ☁️ Microsystems IT – Cloud System Intern  
-**Jan 2023 – Jun 2023**
-
-- Worked with **AWS cloud services**
-- Assisted in **system administration and DevOps practices**
-
----
-
-## 🚧 Projects
-
-### 🧑‍💼 HRIS Application  
-`React.js` `Node.js` `SQL Server`
-
-- Employee management system with authentication
-- Built secure **JWT-based login system**
-- Implemented attendance and shift management APIs
-
-### 🛒 Dappazon – Blockchain E-Commerce  
-`React.js` `Web3` `Smart Contracts`
-
-- Built decentralized e-commerce interface
-- Integrated wallet connection and blockchain transactions
-
-### 🔐 Intrusion Detection System  
-`Python` `Machine Learning`
-
-- Built ML models for intrusion detection
-- Achieved **98% accuracy on CICIoT2023 dataset**
-
-### ✋ ASL Hand Gesture Recognition  
-`Python` `TensorFlow` `CNN`
-
-- Built real-time ASL recognition system
-- Achieved **~90% accuracy**
 
 ---
 
