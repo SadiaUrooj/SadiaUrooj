@@ -1,4 +1,4 @@
-# 👩‍💻 Hi, I'm Sadia Urooj
+# Hi, there 👋
 
 <div id="header" align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k5OTZyZ3d4dWc4ZG56bmM3bnIzdWlsdTg3ajcxZXBzczhtODE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300"/>
