@@ -41,4 +41,3 @@
 
 📧 **Email:** sadiaurooj258@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/sadia-urooj  
-💻 **GitHub:** https://github.com/SadiaUrooj
