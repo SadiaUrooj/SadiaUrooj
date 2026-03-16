@@ -21,7 +21,7 @@
 `JavaScript` `TypeScript` `Python` `C#`
 
 ### 🎨 Frontend
-`React.js` `Ant Design` `Material UI` `Tailwind CSS`
+`React.js` `Ant Design` `Magic UI` `Tailwind CSS`
 
 ### ⚙️ Backend
 `Node.js` `Express.js` `REST APIs` `JWT`
